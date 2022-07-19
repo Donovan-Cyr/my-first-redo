@@ -2,8 +2,4 @@
 .env.local
 .env.production
 
-app1.js
-app2.js
-main.css
-
 .vscode
